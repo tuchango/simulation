@@ -15,8 +15,8 @@
 
 ### Установка
 ```
-git clone https://github.com/lapindanil22/simulation-python.git
-cd simulation-python
+git clone https://github.com/tuchango/simulation.git
+cd simulation
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
